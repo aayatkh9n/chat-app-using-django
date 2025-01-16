@@ -1,0 +1,1 @@
+# Views for rendering and handling chat logic

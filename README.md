@@ -1,1 +1,1 @@
-# chat-app-using-django
+# Documentation for the project
